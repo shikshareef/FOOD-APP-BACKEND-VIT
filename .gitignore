@@ -1,0 +1,31 @@
+# Dependency directories
+/node_modules
+
+# Optional npm cache directory
+.npm
+
+# Environment variables file
+.env
+
+# IDE or editor specific files
+.vscode
+.idea
+
+# Mac specific files
+.DS_Store
+
+# Logs
+logs
+*.log*
+
+# Output of npm commands
+*.log
+
+# Build files
+/build
+
+# Testing data
+/test/fixtures
+
+# Config files that may contain sensitive data
+/config/local.js
